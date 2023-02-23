@@ -10,7 +10,7 @@ image:
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
 
-external-database:
+externalDatabase:
   PG_PASSWORD: "master_123"
 
 imagePullSecrets: []
