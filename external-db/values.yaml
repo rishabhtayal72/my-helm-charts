@@ -11,7 +11,7 @@ image:
   tag: ""
 
 externalDatabase:
-  PG_PASSWORD: "master_123"
+  PG_PASSWORD: master_123
 
 imagePullSecrets: []
 nameOverride: ""
